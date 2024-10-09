@@ -3,6 +3,7 @@ let account_email = "tarun"
 var account_password = "0000"
 account_city = "Mexico"
 
+
 // TypeError: Assignment to constant variable
 // account_id = 23
 account_email = "tarunswaroop199@gmail.com"
